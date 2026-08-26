@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+        body {
+            background-color: #83d8ff;
+            font-family: Arial, sans-serif;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            background-color: rgb(74, 143, 235);
+        }
+        p {
+            background-color: rgb(134, 186, 253);
+            padding: 10px;
+            border-radius: 5px;
+            text-align: justify;
+        }
+    
